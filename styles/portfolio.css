@@ -18,6 +18,23 @@ body{
 
  }
 
+ .dection-title{
+
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+
+ }
+
+ .section-description{
+    color:#757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+ }
+
 /* header ralated style  */
 
 .header{
@@ -96,3 +113,11 @@ nav a{
     color: #474747;
 }
 
+/* main section style  */
+
+/* about section style  */
+ .about{
+    padding: 130px;
+    border-radius: 10px;
+    background: #fff8f3;
+ }
