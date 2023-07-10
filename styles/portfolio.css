@@ -240,6 +240,19 @@ nav a{
     width: 50%;
 }
 
+.section-description{
+    text-align: left;
+}
+
+.social-link a{
+    margin-right: 20px;
+   
+ 
+}
+.social-link{
+    text-align:left;
+}
+
 .contact input[type="text"], .contact input[type="email"] ,textarea{
     display: block;
     margin-bottom: 25px;
